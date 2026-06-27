@@ -175,4 +175,4 @@ Ensure write permissions on:
 For issues or questions, please contact the development team.
 
 ---
-Last Updated: 2024
+Last Updated: 2026
