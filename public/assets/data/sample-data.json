@@ -1,0 +1,33 @@
+{
+  "stats": {
+    "totalStudents": 20,
+    "totalRecords": 40,
+    "averageGpa": 3.91,
+    "averageMarks": 81.4
+  },
+  "topPerformer": {
+    "name": "Rafiq Rahman",
+    "score": 4.00
+  },
+  "performanceTrend": [68, 74, 78, 84],
+  "gradeDistribution": {
+    "A+": 6,
+    "A": 10,
+    "B": 14,
+    "C": 8,
+    "D": 2
+  },
+  "subjectTrend": [
+    { "subject": "Mathematics", "avgMarks": 84 },
+    { "subject": "Physics", "avgMarks": 80 },
+    { "subject": "English", "avgMarks": 82 },
+    { "subject": "Computer Science", "avgMarks": 87 },
+    { "subject": "Biology", "avgMarks": 79 }
+  ],
+  "recentEvaluations": [
+    { "student": "Nadia Islam", "subject": "Computer Science", "totalMarks": 88.5, "grade": "A", "gpa": 3.96 },
+    { "student": "Tanvir Ahmed", "subject": "Mathematics", "totalMarks": 84.0, "grade": "A", "gpa": 3.88 },
+    { "student": "Sumaiya Begum", "subject": "English", "totalMarks": 82.0, "grade": "A", "gpa": 3.84 },
+    { "student": "Arman Hossain", "subject": "Physics", "totalMarks": 78.5, "grade": "A", "gpa": 3.72 }
+  ]
+}
